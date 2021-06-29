@@ -1,4 +1,4 @@
-# Data-Mining
+# Text-Classification NLP Semantics
 Projects relating to the field of Data Mining
 This project Focuses on Text Mining, using the CoronaVirus Tweets NLP Dataset
 from Kaggle. The project explores the numerous of tweets, tweeted by users
